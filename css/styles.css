@@ -3,15 +3,19 @@ body {
 }
 
 h1,
-h2 {
+p {
   text-align: center;
   color: brown;
 }
 footer {
   display: flex;
   text-decoration: underline;
+  color: brown;
+  display: block;
 }
 
 .croissant-photo {
   border: brown soild 2px;
+  display: block;
+  max-width: 100%;
 }
