@@ -1,0 +1,17 @@
+body {
+  background-color: bisque;
+}
+
+h1,
+h2 {
+  text-align: center;
+  color: brown;
+}
+footer {
+  display: flex;
+  text-decoration: underline;
+}
+
+.croissant-photo {
+  border: brown soild 2px;
+}
